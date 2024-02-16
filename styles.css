@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+body h3 {
+  margin: 0px;
+  font-size: 30px;
+}
+
+#counter-value {
+  font-size: 70px;
+  margin: 10px 0px 30px 0px;
+}
+
+button {
+  width: 100px;
+  padding-block: 10px;
+}/*# sourceMappingURL=styles.css.map */
